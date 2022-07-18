@@ -1,0 +1,32 @@
+<p>
+	<strong><span style="font-size:14px;">GoldArch 金软架构：</span></strong> 
+</p>
+<p>
+	主要从事企业管理软件的开发，具有制造业管理经验和软件开发经验。<br />
+<br />
+<span style="font-size:14px;"><strong>软件说明：</strong></span> 
+</p>
+<p>
+	一个完整的应用DotLiquid生成sql执行语句的脚本示例
+</p>
+<p>
+	DotLiquid处理dataTable循环的非常好的示例。由于网上看到的都是row drop的示例，对于dataTable的处理找不到相关资料，故制作此示例！
+</p>
+<p>
+	另外，也有一个附加的功能和技巧，比如对于sql value format等。
+<br />
+<span style="font-size:14px;"><strong>联系方式：</strong></span> 
+</p>
+<p>
+	WeChat微信号:Goldarch<br />
+QQ:99490008<br />
+Email:99490008@qq.com<br />
+<a href="https://github.com/goldarch" target="_blank">https://github.com/goldarch</a><br />
+<a href="http://www.posn.net/" target="_blank">http://www.posn.net/</a> 
+</p>
+<div>
+	<br />
+</div>
+<p>
+	<br />
+</p>
