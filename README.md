@@ -6,3 +6,4 @@
 ![image](https://raw.githubusercontent.com/goldarch/GoldArch.DotLiquidTest/master/img/Snap1.png)  
 
 一直没有找到在脚本内部遍历dataTable.rows 的dotLiquid的示例，仔细看了示例代码，实现起来其实非常简单。
+DotLiquid常用的方法在这一个例子中基本都用到了
